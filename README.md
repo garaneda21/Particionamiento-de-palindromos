@@ -1,7 +1,7 @@
 ## Particionamiento de Palíndromos
 
-El Archivo Algoritmo_A.py Contiene el codigo del algoritmo de complejidad O(n³)
-El Archivo Algoritmo_A.py Contiene el codigo del algoritmo de complejidad O(n²)
+<p>El Archivo Algoritmo_A.py Contiene el codigo del algoritmo de complejidad O(n³)</p>
+<p>El Archivo Algoritmo_A.py Contiene el codigo del algoritmo de complejidad O(n²)</p>
 
 Para usar este código, clonar el repositorio y ejecutar
 
